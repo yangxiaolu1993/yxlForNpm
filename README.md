@@ -1,4 +1,4 @@
-# jxi-component
+# first for npm
 
 ## Project setup
 ```
